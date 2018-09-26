@@ -1,0 +1,30 @@
+# Base page html
+
+<p>signifie « Début du paragraphe » ;
+</p>signifie « Fin du paragraphe ».
+
+<br /> Est une balise orpheline qui sert juste à indiquer qu'on doit aller à la ligne.
+    
+<h1> </h1>: signifie « titre très important ». En général, on s'en sert pour afficher le titre de la page au début de celle-ci.
+<h2> </h2>: signifie « titre important ».
+<h3> </h3>: pareil, c'est un titre un peu moins important (on peut dire un « sous-titre » si vous voulez).
+<h4> </h4>: titre encore moins important.
+<h5> </h5>: titre pas important.
+<h6> </h6>: titre vraiment, mais alors là vraiment pas important du tout.
+
+<strong> </strong>  met en gras /  du texte important.
+
+<mark> </mark> permet de faire ressortir visuellement une portion de texte.
+
+<em> </em> a pour conséquence de mettre le texte en italique.
+
+<ul> </ul> délimite une liste non ordonnée
+<ol> </ol> délimite une liste ordonnée
+<li> </li> délimite chaque ligne de la liste
+<dl> </dl> délimite une liste de définitions
+<dt> </dt> délimite les termes
+<dd> </dd> délimite la définition du terme
+
+<a href="../page2.html"> </a> lien vers une page dans le dossier parent (../autant qu'il y a de dossier à remonter)
+<a href="page2.html"> </a> lien vers une page dans le même dossier
+<a href="contenu/page2.html"> </a> lien vers un sous-dossier
